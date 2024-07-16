@@ -8,6 +8,6 @@ O cancelamento de reservas tem um impacto substancial nas decisões de gestão d
 
 ## Objetivo
 
-Realizar uma análise exploratória de ambos os e criar um modelo para prever quando se ocorrerá cancelamento de reserva. Para isso usaremos a linguagem Python.
+Realizar uma análise exploratória de ambos os hotéis e criar um modelo para prever quando se ocorrerá cancelamento de reserva. Para isso usaremos a linguagem Python.
 
 ---
