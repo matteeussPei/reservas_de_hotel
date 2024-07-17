@@ -24,3 +24,19 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+
+# plugins:
+#   - social
+#   - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/matteeussPei
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@matteeuss
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/matheus-peixoto/
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/matteeussPei"  target="_blank" rel="noopener">Matheus Peixoto</a>

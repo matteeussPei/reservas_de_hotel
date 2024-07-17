@@ -124,8 +124,6 @@ df['meal'].replace(['Undefined', 'BB', 'FB', 'HB', 'SC'],
                    inplace = True)
 ```
 
-
-
 ---
 
 Por fim, também iremos substituir as siglas dos países da coluna *'country'* por seus nomes, por exemplo:
@@ -134,7 +132,7 @@ Por fim, também iremos substituir as siglas dos países da coluna *'country'* p
 * **`ALB`** - Albania
 * **`AGO`** - Angola
 
-Para isso usei um [documento]('https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv' "código") que contém o nome dos países e suas siglas, criei um dicionário e fiz a substituição:
+Para isso usei um documento que contém o nome dos países e suas siglas, criei um dicionário e fiz a substituição:
 
 ```python
 dict_country= {}
